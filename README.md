@@ -4,7 +4,7 @@ Simple tool that helps you organize your studies and tasks as it allows you to i
 <br>
 <br>
 
-####Screenshot
+#### Screenshot
 
 <a href="https://ibb.co/phsjHmd"><img src="https://i.ibb.co/LNqdTG1/sm.png" alt="sm" border="0"></a>
 
